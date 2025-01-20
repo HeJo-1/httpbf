@@ -4,6 +4,27 @@
 Bu Python tabanlı araç, bir hedef URL'ye ve belirtilen bir wordlist dosyasındaki şifreleri deneyerek formu doldurur.
 
 ---
+## Kurulum
+#### Linux
+```bash
+git clone https://github.com/HeJo-1/httpbf.git
+cd httpbf
+pip install requests beautifulsoup4 colorama
+python3 main.py -h
+```
+#### Windows
+git indirme
+```bash
+winget install --id Git.Git -e --source winget
+```
+kurulum
+```bash
+git clone https://github.com/HeJo-1/httpbf.git
+cd httpbf
+pip install requests beautifulsoup4 colorama
+python main.py -h
+```
+---
 
 ## Kullanım
 
