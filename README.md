@@ -48,6 +48,10 @@ python main.py -u <URL> -w <WORDLIST_PATH> -i <INPUT_ID>
 
 ### Örnek Kullanım:
 
+
+https://github.com/user-attachments/assets/801408a8-a7dd-402a-8401-69025d752615
+
+
 ```bash
 python main.py -u https://dosya.co/login -w passwords.txt -i pass_input
 ```
